@@ -3,7 +3,7 @@ const app = express();
 const details = require('./hotel.json')
 const cors = require('cors');
 app.use(cors());
-const port = 5000;
+const port = process.env.PORT || 5000;
 
 
 app.get('/', (req, res) => {
@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 app.get('/details', (req, res) => {
     res.send(details);
 })
-app.get('/details/:id', (req, res) => {
+app.get('/detail/:id', (req, res) => {
     const id = parseInt(req.params.id)
     const detail = details.find(d => d.id === id)
     res.send(detail);
