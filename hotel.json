@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "bad": "1",
+        "person": "1",
+        "balance": "$10",
+        "Quality": "General",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSe_ryWInYkUkuw1G8nMY_WOb8JWEoVkw8dw&usqp=CAU",
+        "category": "Single room",
+        "phone": "+1 (895) 465-3188",
+        "address": "990 Banner Avenue, Temperanceville, Hawaii, 4364",
+        "food": [
+            "rice",
+            "vegetables",
+            "fish",
+            "alor borta",
+            "Potato jol",
+            "Dal",
+            "meat"
+        ],
+        "room": [
+            "Balish",
+            "Blanket",
+            "Wash room:1",
+            "Hot Water",
+            "Cool water",
+            "Soap",
+            "Shampo",
+            "Toyale",
+            "Cotton",
+            "Bashondhara-tissu"
+        ],
+        "about": "Sunt ea tempor voluptate incididunt magna exercitation id dolor sint et ipsum sunt pariatur pariatur. Deserunt sit adipisicing sunt cupidatat aliqua velit proident elit officia eu id eiusmod. Deserunt aute commodo culpa consectetur est ea duis. Sint nostrud irure mollit aute pariatur nostrud magna excepteur velit consequat sunt. Ex dolor aliqua nisi excepteur enim cupidatat exercitation culpa aute aliqua qui ad. Pariatur sunt ad ad quis sunt commodo aute nulla labore dolor. Labore sint incididunt aliquip sunt laboris minim sint magna voluptate mollit proident tempor.\r\n"
+    },
+    {
+        "id": 2,
+        "bad": "1",
+        "person": "2",
+        "balance": "$15",
+        "Quality": "General",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4QzvJi-yVOeAIWDW5MnU-AQoI_rTZJxrgw&usqp=CAU",
+        "category": "Couple Room",
+        "phone": "+1 (869) 519-3495",
+        "address": "633 Grand Street, Riner, Arizona, 7243",
+        "food": [
+            "rice",
+            "vegetables",
+            "fish",
+            "alor borta",
+            "Potato jol",
+            "Dal",
+            "meat"
+        ],
+        "room": [
+            "Balish",
+            "Blanket",
+            "Wash room:1",
+            "Hot Water",
+            "Cool water",
+            "Soap",
+            "Shampo",
+            "Toyale",
+            "Cotton",
+            "Bashondhara-tissu"
+        ],
+        "about": "Amet incididunt labore ad in ut. Sit ullamco consequat nulla consequat ut commodo. Nisi irure ullamco aute minim in. Culpa elit ullamco laborum laboris aliquip aliqua culpa aute cillum amet laborum est laborum aliquip. Voluptate id ipsum do consequat minim qui magna laboris ex mollit adipisicing consequat dolore duis.\r\n"
+    },
+    {
+        "id": 3,
+        "bad": "2",
+        "person": "4",
+        "balance": "$30",
+        "Quality": "VIP",
+        "picture": "https://media-cdn.tripadvisor.com/media/photo-s/1a/24/5c/fc/photo3jpg.jpg",
+        "category": "Family Room",
+        "phone": "+1 (856) 513-2821",
+        "address": "366 Brown Street, Dorneyville, Virginia, 7309",
+        "food": [
+            "rice",
+            "vegetables",
+            "fish",
+            "alor borta",
+            "Potato jol",
+            "Dal",
+            "meat"
+        ],
+        "room": [
+            "Balish",
+            "Blanket",
+            "Wash room:1",
+            "Hot Water",
+            "Cool water",
+            "Soap",
+            "Shampo",
+            "Toyale",
+            "Cotton",
+            "Bashondhara-tissu"
+        ],
+        "about": "Tempor id laborum excepteur occaecat adipisicing magna esse reprehenderit. Mollit id deserunt nisi voluptate do. Mollit ad elit amet cupidatat ad magna elit deserunt sint. Mollit occaecat deserunt dolore occaecat. Cillum laboris amet enim qui nisi. Aliquip laborum et nostrud duis minim aliquip eiusmod. Laboris est id voluptate nisi tempor veniam ullamco in non nostrud.\r\n"
+    }
+]
