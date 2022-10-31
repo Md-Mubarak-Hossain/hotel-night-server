@@ -1,8 +1,8 @@
 const express = require('express');
 const app = express();
 const details = require('./hotel.json')
-const cors = require("cors");
-app.use(cors());
+// const cors = require("cors");
+// app.use(cors());
 const port = process.env.PORT || 5000;
 
 
